@@ -1,6 +1,6 @@
 
 
-P  {}
+P  {p class="foo"}
 
 H1  {color:#000000; font-family:Verdana, Arial; font-size: 12px;}}
 
@@ -23,4 +23,4 @@ BODY  {background-color : #ffffff;}
 .default {color:#000000; font-family:Verdana, Arial; font-size: 10px;}
 .fine {color:#000000; font-family:Arial; font-size: 10px;}
 .form {color:#000000; font-family:Verdana, Arial; font-size: 10px;}
-
+.foo {color:red;}
